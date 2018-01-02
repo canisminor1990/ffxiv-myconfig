@@ -1,0 +1,4 @@
+# ffxiv-myconfig
+
+-[] test
+-[] test
