@@ -1,4 +1,4 @@
 # ffxiv-myconfig
 
-- [+] test
+- [-] test
 - [ ] test
